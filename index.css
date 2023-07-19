@@ -1,0 +1,18 @@
+body > h1 {
+  text-align: center;
+}
+
+.book-item {
+  display: flex;
+  flex-direction: row;
+  padding: 0 2rem;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.book-title {
+  width: 70%;
+}
+.book-authors {
+  width: 30%;
+}
